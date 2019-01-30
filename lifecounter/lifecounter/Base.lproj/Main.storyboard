@@ -136,7 +136,7 @@
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
                                 <connections>
-                                    <action selector="oneForP3:" destination="BYZ-38-t0r" eventType="touchDragInside" id="L4H-r7-BMV"/>
+                                    <action selector="oneForP3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qSK-DA-fav"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LyL-cz-E5g">
